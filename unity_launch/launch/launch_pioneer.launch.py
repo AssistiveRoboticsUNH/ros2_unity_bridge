@@ -21,7 +21,7 @@ def generate_launch_description():
     ld.add_action(download_and_run_binary)
 
     # teleop_twist_keyboard = Node(
-    #     package="teleop_twist_keyboard",
+    #     package="teleop_twist_keyboard",cd
     #     executable="teleop_twist_keyboard",
     #     name="teleop_twist_keyboard",
     #     output="log"
