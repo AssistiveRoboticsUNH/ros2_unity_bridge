@@ -4,7 +4,7 @@ import os
 
 
 def main():
-    URL = "https://universitysystemnh-my.sharepoint.com/:u:/g/personal/mb1215_usnh_edu/EacyeabMxypAhaLKTx_8egoBMMQ5oNN1R5G-CQVHD0OE0A?download=1"
+    URL = "https://universitysystemnh-my.sharepoint.com/:u:/g/personal/og1047_usnh_edu/EfxKPu8j8DhBoimE2tRHdkwBBv-lYxzU_VU6JjG01KBI3w?download=1"
     home_path = os.path.expanduser('~')
     install_path = os.path.join(home_path, 'unity_binary')
     installed = os.path.exists(install_path)
